@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "info": "Место номер 1",
+        "photos": [
+            "../img/place1.jpg",
+            "../img/place1.1.jpg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.54011154174805,
+          48.848902682969765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info": "Место номер 2",
+        "photos": [
+            "../img/place2.jpg",
+            "../img/place2.1.jpg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.57680416107178,
+          48.80017857562216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info": "Место номер 3",
+        "photos": [
+            "../img/place3.jpg",
+            "../img/place3.1.jpg"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6531291,
+          48.816813
+        ]
+      }
+    }
+  ]
+}
